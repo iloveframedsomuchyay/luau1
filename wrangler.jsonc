@@ -2,6 +2,7 @@
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "luauengine-site",
   "compatibility_date": "2026-08-01",
+  "account_id": "cda2c05d7423f9976f3c8e36995a2d19",
 
   // Static-assets-only Worker: no `main` script needed. Cloudflare serves ./dist
   // directly from its edge cache.
